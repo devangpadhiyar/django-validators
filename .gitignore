@@ -1,0 +1,5 @@
+.idea/
+db*
+build/
+dist/
+django_validators.egg-info/
