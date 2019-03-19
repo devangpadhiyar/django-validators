@@ -31,7 +31,6 @@ Install `django-validators` using `pip`
     # with django serializers
     class DemoSerializer(serializers.Serializer):
         CONTENT_TYPES = ('image/png', 'application/pdf', 'image/jpeg', 'image/jpg', 'image/tiff',)
-        FILE_SIZE_IN_BYTES = 1024 * 1024 * 5  # ~5 Mib
         file_object = serializers.FileField(validators=[MimetypeValidator(CONTENT_TYPES)])
     ```
 
