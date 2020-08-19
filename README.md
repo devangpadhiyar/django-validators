@@ -9,6 +9,8 @@ Install `django-validators` using `pip`
 
 `pip install django-validators`
 
+For translations, add `djangovalidators` to `settings.INSTALLED_APPS`.
+
 ### Types of validators
 
 #### File validators
