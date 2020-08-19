@@ -1,0 +1,61 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-04-17 10:36+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+
+msgid "ALPHA_REQUIRED"
+msgstr "Only letters and dash accepted"
+
+msgid "ALPHA_SPACE_REQUIRED"
+msgstr "Only letters, spaces and dash accepted"
+
+msgid "ALPHA_SPACE_QUOTE_REQUIRED"
+msgstr "Only letters without accent, spaces, single quote and dash accepted"
+
+msgid "ALPHANUM_REQUIRED"
+msgstr "Only letters, numbers and dashes accepted"
+
+msgid "ALPHANUM_UNDERSCORE_REQUIRED"
+msgstr "Only letters, numbers, underscores and dashes accepted"
+
+msgid "ALPHANUM_SPACE_REQUIRED"
+msgstr "Only letters, numbers, spaces and dashes accepted"
+
+msgid "ALPHANUM_SPACE_QUOTE_REQUIRED"
+msgstr "Only letters, numbers, spaces, single quotes and dashes accepted"
+
+msgid "ALPHANUM_SPACE_QUOTE_UNDERSCORE_REQUIRED"
+msgstr "Only letters, numbers, spaces, single quotes, underscores and dashes accepted"
+
+msgid "LOCATION_NAME_VALIDATION"
+msgstr "Only letters, numbers, dashes, spaces, and special characters accepted"
+
+msgid "COMPANY_NAME_VALIDATION"
+msgstr "At least one letter is required, numbers, dashes, spaces, and special characters accepted"
+
+msgid "COMPANY_IDCODE_VALIDATION"
+msgstr "Only letters, numbers and spaces are accepted"
+
+msgid "SAFE_VALIDATION"
+msgstr "Must not contain unsafe characters"
+
+msgid "FILENAME_VALIDATION"
+msgstr "Filename must not contain those characters (<>:;,?\"*|/)"
+
+msgid "SAFETEXT_VALIDATION"
+msgstr "Must not contain unsafe characters"
