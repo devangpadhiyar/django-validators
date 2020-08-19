@@ -1,0 +1,61 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-04-17 10:36+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+
+msgid "ALPHA_REQUIRED"
+msgstr "Merci de saisir uniquement lettres et tirets"
+
+msgid "ALPHA_SPACE_REQUIRED"
+msgstr "Merci de saisir uniquement lettres, tirets et espaces"
+
+msgid "ALPHA_SPACE_QUOTE_REQUIRED"
+msgstr "Merci de saisir uniquement lettres, tirets, espaces et apostrophe simple"
+
+msgid "ALPHANUM_REQUIRED"
+msgstr "Merci de saisir uniquement lettres, chiffres et tirets"
+
+msgid "ALPHANUM_UNDERSCORE_REQUIRED"
+msgstr "Merci de saisir uniquement lettres, chiffres, tirets et sous-tirets"
+
+msgid "ALPHANUM_SPACE_REQUIRED"
+msgstr "Merci de saisir uniquement lettres, chiffres, tirets et espaces"
+
+msgid "ALPHANUM_SPACE_QUOTE_REQUIRED"
+msgstr "Merci de saisir uniquement lettres, chiffres, tirets, espaces et apostrophe simple"
+
+msgid "ALPHANUM_SPACE_QUOTE_UNDERSCORE_REQUIRED"
+msgstr "Merci de saisir uniquement lettres, chiffres, tirets, espaces, apostrophe simple et sous-tirets"
+
+msgid "LOCATION_NAME_VALIDATION"
+msgstr "Merci de saisir uniquement lettres, chiffres, tirets, espaces, ou caractères spéciaux (.,)"
+
+msgid "COMPANY_NAME_VALIDATION"
+msgstr "Merci de saisir uniquement lettres (au minimum une lettre), chiffres, tirets, espaces, ou caractères spéciaux (\"!@#$%.,)"
+
+msgid "COMPANY_IDCODE_VALIDATION"
+msgstr "Merci de saisir uniquement lettres, chiffres et espaces"
+
+msgid "SAFE_VALIDATION"
+msgstr "Ne doit pas contenir de caractères risqués"
+
+msgid "FILENAME_VALIDATION"
+msgstr "Le nom de fichier ne doit pas contenir ces caractères (<>:;,?\"*|/)"
+
+msgid "SAFETEXT_VALIDATION"
+msgstr "Ne doit pas contenir de caractères risqués"
